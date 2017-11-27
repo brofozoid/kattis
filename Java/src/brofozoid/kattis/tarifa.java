@@ -2,7 +2,7 @@ package brofozoid.kattis;
 
 import java.util.Scanner;
 
-public class tarifa {
+public class Tarifa {
 
     public static void main(String[] args) {
         // write your code here
